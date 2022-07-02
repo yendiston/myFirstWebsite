@@ -7,4 +7,4 @@
 //Overall I had fun. Even as hard and frustrating as it is as a beginner for now, I truly had fun learning and ATTEMPTING to understand what was right and wrong with what I did.
 
 
-IF someone actually decides to check this out, I would very much appreciate feedback and pointers on how I could improve possibly something such as my "handwriting" or the way I organised/wrote the mess in the HTML, CSS, and JS files. Thank you for checking this out! (Whether it is me from the future or someone out there~)  (~￣▽￣)~
+IF someone actually decides to check this out, I would very much appreciate feedback and pointers on how I could improve possibly something such as my "handwriting" or the way I organised/wrote the mess in the HTML, CSS, and JS files. (Download index.html, style.scss, script.js, and the images.) Thank you for checking this out! (Whether it is me from the future or someone out there~)  (~￣▽￣)~
